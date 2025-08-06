@@ -1,0 +1,108 @@
+{
+  "gameId": "clair_obscura_expediton_33",
+  "gameName": "Clair Obscura: Expediton 33",
+  "platform": "PS5",
+  "totalTrophies": 12,
+  "bronzeCount": 8,
+  "silverCount": 3,
+  "goldCount": 1,
+  "platinumCount": 0,
+  "trophies": [
+    {
+      "id": "welcome_to_the_expedition",
+      "name": "Welcome to the Expedition",
+      "description": "Arrive at the first location.",
+      "type": "bronze",
+      "hidden": false,
+      "rarity": "Common"
+    },
+    {
+      "id": "a_new_friend",
+      "name": "A New Friend",
+      "description": "Meet your first companion.",
+      "type": "bronze",
+      "hidden": false,
+      "rarity": "Common"
+    },
+    {
+      "id": "the_first_step",
+      "name": "The First Step",
+      "description": "Complete the first puzzle.",
+      "type": "bronze",
+      "hidden": false,
+      "rarity": "Common"
+    },
+    {
+      "id": "a_helping_hand",
+      "name": "A Helping Hand",
+      "description": "Help a companion.",
+      "type": "bronze",
+      "hidden": false,
+      "rarity": "Common"
+    },
+    {
+      "id": "a_little_knowledge",
+      "name": "A Little Knowledge",
+      "description": "Find a clue.",
+      "type": "bronze",
+      "hidden": false,
+      "rarity": "Common"
+    },
+    {
+      "id": "a_good_listener",
+      "name": "A Good Listener",
+      "description": "Listen to a companion's story.",
+      "type": "bronze",
+      "hidden": false,
+      "rarity": "Common"
+    },
+    {
+      "id": "a_helping_hand_again",
+      "name": "A Helping Hand Again",
+      "description": "Help a companion again.",
+      "type": "bronze",
+      "hidden": false,
+      "rarity": "Common"
+    },
+    {
+      "id": "a_little_more_knowledge",
+      "name": "A Little More Knowledge",
+      "description": "Find another clue.",
+      "type": "bronze",
+      "hidden": false,
+      "rarity": "Common"
+    },
+    {
+      "id": "the_second_step",
+      "name": "The Second Step",
+      "description": "Complete the second puzzle.",
+      "type": "silver",
+      "hidden": false,
+      "rarity": "Rare"
+    },
+    {
+      "id": "the_third_step",
+      "name": "The Third Step",
+      "description": "Complete the third puzzle.",
+      "type": "silver",
+      "hidden": false,
+      "rarity": "Rare"
+    },
+    {
+      "id": "the_fourth_step",
+      "name": "The Fourth Step",
+      "description": "Complete the fourth puzzle.",
+      "type": "silver",
+      "hidden": false,
+      "rarity": "Rare"
+    },
+    {
+      "id": "the_end_of_the_expedition",
+      "name": "The End of the Expedition",
+      "description": "Complete the expedition.",
+      "type": "gold",
+      "hidden": false,
+      "rarity": "Very Rare"
+    }
+  ]
+}
